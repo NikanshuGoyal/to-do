@@ -25,13 +25,13 @@ React.js for the frontend user interface, and Node.js as the server-side runtime
 
 ## Features 
 
-* Users can add new to-do items by entering a task description and pressing the "Add" button. The new item will be saved in the database.
+* Users can add new to-do items by entering a task description and pressing the *ENTER* button. The new item will be saved in the database.
 
 * The application displays a list of existing to-do items fetched from the backend server. Users can view all their tasks at a glance.
 
-* Users can mark tasks as completed or modify the task description by clicking on the "Edit" button next to the respective item.
+* Users can mark tasks as DONE or modify the task description by clicking on the "Edit" icon next to the respective item.
 
-* Users can delete a to-do item by clicking the "Delete" button next to the task they wish to remove.
+* Users can delete a to-do item by clicking the "Delete" icon next to the task they wish to remove.
 
 
 
