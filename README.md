@@ -41,8 +41,10 @@ React.js for the frontend user interface, and Node.js as the server-side runtime
 
 <a href="#"> ![screenshot](images/all_todo.png) </a>
 
+- [x] Done Todos Page:
 <a href="#"> ![screenshot](images/done_todo.png) </a>
 
+- [x] Active Todos  Page:
 <a href="#"> ![screenshot](images/active_todo.png) </a>
 
 
